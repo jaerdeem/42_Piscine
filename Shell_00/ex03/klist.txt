@@ -1,0 +1,6 @@
+Credentials cache: API:7F78EA8C-DEEF-4C77-A4D4-1CE5AE5B623A
+        Principal: aalkan@42KOCAELI.COM.TR
+
+  Issued                Expires               Principal
+Nov 26 09:55:03 2021  Nov 26 19:55:03 2021  krbtgt/42KOCAELI.COM.TR@42KOCAELI.COM.TR
+Nov 26 09:55:05 2021  Nov 26 19:55:03 2021  HTTP/student-storage.42kocaeli.com.tr@42KOCAELI.COM.TR
