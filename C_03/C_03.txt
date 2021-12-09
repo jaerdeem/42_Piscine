@@ -1,0 +1,55 @@
+C_03
+
+-EX00
+
+Birinci ve ikinci kelimenin birbirine eşit olduğu ve ikisininde null değeri olmadığı bir döngü yazdık. Herhangi bir farklılık olana kadar bu döngü devam ediyor. Herhangi bir farklılık olursa farklılık olan harfin ascii tablosundaki karşılığını yazıyor.
+Örneğin :
+— namea
+— name
+Ekrana a - 0 işleminin ascii tablosundaki değerini yazdıracak.
+
+Diğer bir örnek olarak :
+— namearmut 
+— namebeyaz
+Ekrana a - b işleminin ascii tablosundaki değerini yazdıracak.
+
+-EX01
+
+EX00 dan farklı olarak bu çalışmada programın nereye kadar okuyacağını belirttik. Program ilk karakteri 0 olarak alacak ve okumaya başlayacak. n değerini 4 belirlersek dizilere göre 4. harfte yani h harfi kısmına kadar okuyacak.
+Örneğin :
+— namehello
+— nameaello
+Ekrana h - a işleminin ascii tablosundaki karşılığını yazdıracak.
+
+-EX02
+
+Örneğin elimizde trabzon ve ankara diye iki kelime var. Program öncelikle trabzon kelimesindeki harfleri okuyor. Trabzon kelimesi dizilere göre 6 normal sayılara göre 7 karakterli. Devamında bir c değeri belirledik ve bu c değerini 7. Diziye eşitledik. Sonrasında programdan 7. diziden itibaren ikinci belirlediğimiz kelimeyi harf harf yazdırmasını istedik.
+Örneğin :
+— trabzon 
+— ankara
+— trabzonankara
+
+-EX03
+
+Bir önceki çalışmadan farklı olarak belirlediğimiz n değişkeni sayesinde program ikinci kelimenin n kadarını ilk kelimenin sonuna ekliyor.
+Örneğin :
+— name
+— hello
+— n = 3
+Ekrana namehel yazdıracak.
+
+-EX04
+
+Elimize örneğin “ankara çok güzel” diye bir cümle var. “to_find” olarak programımızın bulmasını istediği bir string belirledik. Program bu stringdeki ilk harfi görene kadar sıra sıra harfleri tarıyor. İlk harfi gördüğü zaman bulmasını istediğimiz stringdeki ikinci harfe geçiyor. İlk yazdığımız cümle içerisindeki bulduğu stringde bulmasını istediğimiz ikinci stringi arıyor. Eğer bulmasını istediğimiz string ile bulduğu string aynı ise elimizdeki cümledeki bulmasını istediğimiz string dahil kalan kısmı ekrana yazdırıyor.
+Örneğin :
+— ankara çok güzel
+— to_find stringimiz ok
+Ekrana ok güzel yazıracak. 
+
+-EX05
+
+Üçüncü çalışmada namehel yazdırmıştık. Bu çalışmada da aynısını yaptırdık ve ekrana yazılacak çıktının kaç karakterli olduğunu saydırdık ve ekrana çıktı olarak karakter sayısını aldık.
+Örneğin : 
+— namehel
+Ekrana çıktı olarak 8 yazıracak.
+
