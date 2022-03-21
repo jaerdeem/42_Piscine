@@ -48,9 +48,10 @@
 ### Useful Links
 	# main.c
 		https://www.notion.so/Main-C-944afbadae554ae5a7875256dd7db277
+	
+	# Piscine Exam Questions & Solutions
+		Q | http://nigal.freeshell.org/42/exam-review.php
+		S | http://nigal.freeshell.org/42/exam-solutions/
+	
 
-
-All of this information in this file was taken from repository named with [appinha/42sp-piscine](https://github.com/appinha/42sp-piscine).
-
-
-This repository created by PortBranch on 07-12-2021 16.48 P.M | Last Update : 14-12-2021 17.09 P.M
+This repository created by PortBranch on 07-12-2021 16:48 P.M | Last Update : 21.03.2022 19:41 P.M
