@@ -47,7 +47,7 @@
 
 ### Useful Links
 	# main.c
-		[Main C](https://www.notion.so/Main-C-944afbadae554ae5a7875256dd7db277).
+		https://www.notion.so/Main-C-944afbadae554ae5a7875256dd7db277
 
 
 All of this information in this file was taken from repository named with [appinha/42sp-piscine](https://github.com/appinha/42sp-piscine).
