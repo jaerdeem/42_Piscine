@@ -54,4 +54,4 @@
 		S | http://nigal.freeshell.org/42/exam-solutions/
 	
 
-This repository created by Andres Pathway on 07-12-2021 16:48 P.M | Last Update : 04-06-2022 14:45 P.M
+This repository created by andrés on 07-12-2021 16:48 P.M | Last Update : 14-07-2022 15.27 P.M
